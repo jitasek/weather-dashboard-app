@@ -1,15 +1,22 @@
 # Weather Dashboard
 
-<strong>User Story</strong>
+Link to the deployed app: https://jitasek.github.io/weather-dashboard-app/
 <br>
-As a traveler I want to see the weather outlook for multiple cities so that I can plan a trip accordingly
 <br>
 
-Link to the deployed app: TBD
+## User Story
+
 <br>
-<strong>Acceptance Criteria</strong>
+As a traveler I want to see the weather outlook for multiple cities so that I can plan a trip accordingly
+
 <br>
-Build a weather dashboard with form inputs:
+<br>
+
+## Acceptance Criteria
+
+<br>
+- build a weather dashboard with form inputs:
+<br>
 <br>
 WHEN I search for a city, I am presented with current and future conditions for that city and that city is added to the search history
 <br>
